@@ -43,11 +43,10 @@ GCP Vertex AI + RAG + LINE API | 整合企業知識庫，回應準確率 > 85%
 ## 🎯 核心能力
 
 - **API 開發**：RESTful API 設計、Django REST Framework
-- **資料庫**：PostgreSQL/MySQL 效能優化、Query 調校
-- **AI 整合**：GCP Vertex AI、RAG、影像辨識、語音處理（VAD）
-- **IoT**：設備監控、數據傳輸、即時分析與視覺化
+- **AI 整合**：RAG、影像辨識、語音處理（VAD）
+- **IoT**：設備監控、數據傳輸
 - **金流**：TapPay、LINE Pay、ECPay 串接，電子發票整合
-- **LINE 生態**：LINE Messaging API、LIFF、推播系統
+- **LINE 生態**：LINE Messaging API、LIFF、Login
 
 ---
 
